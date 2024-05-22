@@ -1,0 +1,6 @@
+[submodule "landing-starter"]
+	path = landing-starter
+	url = https://github.com/luisMDev/landing-starter
+[submodule "admin-starter"]
+	path = admin-starter
+	url = https://github.com/luisMDev/admin-starter
