@@ -8,7 +8,7 @@ Each project is pre-configured with essential integrations and features to ensur
 
 ## Projects
 
-### Admin Starter [(demo)]([https://github.com/luismdev/landing-starter](https://admin-starter-lac.vercel.app/auth/login))
+### Admin Starter [(demo)](https://admin-starter-lac.vercel.app/auth/login)
 
 - **Description**: A robust admin dashboard template built with Angular and integrated with essential tools for authentication, error handling, and analytics.
 - **Key Integrations**:
@@ -16,7 +16,7 @@ Each project is pre-configured with essential integrations and features to ensur
   - **Sentry**: To handle and log errors effectively.
   - **Analytics integration**: For advanced data analytics and reporting with [Looker Studio](https://looker.com/docs/studio).
 
-### Landing Starter [(demo)]([https://github.com/luismdev/admin-starter](https://landing-starter-navy.vercel.app/landing))
+### Landing Starter [(demo)](https://landing-starter-navy.vercel.app/landing)
 
 - **Description**: A high-performance landing page template built with Angular, optimized for SEO through server-side rendering.
 - **Features**:
